@@ -83,6 +83,8 @@
 			dependencies = (
 			);
 			name = SegmentTest;
+			packageProductDependencies = (
+			);
 			productName = SegmentTest;
 			productReference = 3736E0DA27BE865B001577A5 /* SegmentTest.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +113,8 @@
 				Base,
 			);
 			mainGroup = 3736E0D127BE865B001577A5;
+			packageReferences = (
+			);
 			productRefGroup = 3736E0DB27BE865B001577A5 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
